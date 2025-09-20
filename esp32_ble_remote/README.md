@@ -11,6 +11,8 @@ This project implements a wireless BLE remote using an ESP32 and a custom 3D-pri
   - BLE communication with ESP32
 
 ## Hardware and Design
+
+
 - MCU: ESP32 WROOM 32 (BLE enabled)
 - Joystick: Arduino PS2 Joystick Module
 - Frame: Custom cylindrical 3D-printed case (using Fusion)
@@ -19,6 +21,7 @@ This project implements a wireless BLE remote using an ESP32 and a custom 3D-pri
 Design Iterations:
 - Initial design had issues with jumper wire space and USB port fit
 - Revised design added cover protection and improved grip
+
 
 ## Demo
 [![Demo Video](https://img.youtube.com/vi/v4lBZTQJYww/0.jpg)](https://youtu.be/v4lBZTQJYww)
